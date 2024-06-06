@@ -4,7 +4,7 @@ from ctypes import cdll, c_double, c_char_p, c_void_p, c_int
 app = Flask(__name__)
 
 # Load the shared library
-lib = cdll.LoadLibrary('../CPP/cpp_library.so')
+lib = cdll.LoadLibrary('../CPP/cpp_library.dll')
 
 # Define the MenuItem class
 class MenuItem:
@@ -66,7 +66,7 @@ class OrderManager:
 
 @app.route('/')
 def index():
-    return render_template('index.html')
+    return render_template('../index.html')
 
 if __name__ == '__main__':
     app.run(debug=True)
