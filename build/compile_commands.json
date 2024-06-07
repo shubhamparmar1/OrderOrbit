@@ -1,0 +1,26 @@
+[
+{
+  "directory": "E:/Code for me/OrderOrbit/build",
+  "command": "C:\\MinGW\\bin\\c++.exe -DOrderOrbit_EXPORTS -I\"E:/Code for me/OrderOrbit/CPP/include\" -g -std=gnu++14 -o CMakeFiles\\OrderOrbit.dir\\table.cpp.obj -c \"E:\\Code for me\\OrderOrbit\\CPP\\table.cpp\"",
+  "file": "E:\\Code for me\\OrderOrbit\\CPP\\table.cpp",
+  "output": "CMakeFiles\\OrderOrbit.dir\\table.cpp.obj"
+},
+{
+  "directory": "E:/Code for me/OrderOrbit/build",
+  "command": "C:\\MinGW\\bin\\c++.exe -DOrderOrbit_EXPORTS -I\"E:/Code for me/OrderOrbit/CPP/include\" -g -std=gnu++14 -o CMakeFiles\\OrderOrbit.dir\\order.cpp.obj -c \"E:\\Code for me\\OrderOrbit\\CPP\\order.cpp\"",
+  "file": "E:\\Code for me\\OrderOrbit\\CPP\\order.cpp",
+  "output": "CMakeFiles\\OrderOrbit.dir\\order.cpp.obj"
+},
+{
+  "directory": "E:/Code for me/OrderOrbit/build",
+  "command": "C:\\MinGW\\bin\\c++.exe -DOrderOrbit_EXPORTS -I\"E:/Code for me/OrderOrbit/CPP/include\" -g -std=gnu++14 -o CMakeFiles\\OrderOrbit.dir\\order_manager.cpp.obj -c \"E:\\Code for me\\OrderOrbit\\CPP\\order_manager.cpp\"",
+  "file": "E:\\Code for me\\OrderOrbit\\CPP\\order_manager.cpp",
+  "output": "CMakeFiles\\OrderOrbit.dir\\order_manager.cpp.obj"
+},
+{
+  "directory": "E:/Code for me/OrderOrbit/build",
+  "command": "C:\\MinGW\\bin\\c++.exe -DOrderOrbit_EXPORTS -I\"E:/Code for me/OrderOrbit/CPP/include\" -g -std=gnu++14 -o CMakeFiles\\OrderOrbit.dir\\menu_item.cpp.obj -c \"E:\\Code for me\\OrderOrbit\\CPP\\menu_item.cpp\"",
+  "file": "E:\\Code for me\\OrderOrbit\\CPP\\menu_item.cpp",
+  "output": "CMakeFiles\\OrderOrbit.dir\\menu_item.cpp.obj"
+}
+]
